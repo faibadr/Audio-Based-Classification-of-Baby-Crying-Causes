@@ -1,4 +1,4 @@
-# Classifying-the-Causes-of-Baby-Crying-Through-Audio-Data
+# Audio-Based Classification of Baby Crying Causes
 This project aims to classify the causes of baby crying based on their crying voices. The goal is to identify the reasons behind the crying sound, providing insights into the baby's needs and improving response strategies.
 
 **Steps Involved:**
